@@ -2,8 +2,8 @@
 
 ## Iteration 1
 - Create FoodContext File
-* Create the Context and Provider in that file
-* Create a folder 'context' and the context file within
+  * Create the Context and Provider in that file
+  * Create a folder 'context' and the context file within
 
 ## Iteration 2
 * Make sure you wrap your app with the 'Provider'
@@ -16,5 +16,5 @@
 
 ## Iteration 4
 - Create your form where you handle state inside the App.js
-* Submit the new food object and display it
+  * Submit the new food object and display it
 
