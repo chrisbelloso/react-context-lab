@@ -1,7 +1,7 @@
 # React Context Lab
 
 ## Iteration 1
-- Create Auth Context File
+- Create FoodContext File
 * Create the Context and Provider in that file
 * Create a folder 'context' and the context file within
 
